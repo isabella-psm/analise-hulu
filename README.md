@@ -1,8 +1,5 @@
 # 🎬 Análise do Catálogo da Hulu (2021)
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/hulu-content-analysis)
-
 Análise exploratória do catálogo de filmes e séries disponíveis na Hulu em 2021, investigando padrões de conteúdo, gêneros e distribuição geográfica.
 
 ## 🔍 Principais Descobertas
