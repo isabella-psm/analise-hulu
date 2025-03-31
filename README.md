@@ -10,13 +10,17 @@ Análise exploratória do catálogo de filmes e séries disponíveis na Hulu em 
 ### 📺 Distribuição de Conteúdo
 - **70% filmes** vs. **30% séries**, com dominância de produções norte-americanas (65%).
 
-2. **Origem Geográfica**:
-   - Top 3 países produtores: Estados Unidos	65%, Reino Unido	12%, Japão	8%
+### 🌎 Origem Geográfica
+| País          | % Conteúdo |  
+|---------------|------------|  
+| EUA           | 65%        |  
+| Reino Unido   | 12%        |  
+| Japão         | 8%         |  
 
-3. **Classificação Etária**:
-   - Ranking: TV-MA (35%) - Conteúdo adulto.
+### ⚠️ Classificação Etária
+- Conteúdo adulto lidera com 35%, enquanto infantil representa apenas 5%.
 
-4. **Gêneros Dominantes**:
+### 🎭 Gêneros Dominantes
    - Combinações mais frequentes: Drama + Crime, Comédia + Romance
 
 ## 🛠 Tecnologias Utilizadas
