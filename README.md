@@ -5,10 +5,10 @@
 
 Análise exploratória do catálogo de filmes e séries disponíveis na Hulu em 2021, investigando padrões de conteúdo, gêneros e distribuição geográfica.
 
-## 📊 Principais Descobertas
-1. **Distribuição de Conteúdo**:
-   - 70% são filmes, 30% são séries
-   - Filme mais longo: [Nome] com `XXX` minutos
+## 🔍 Principais Descobertas
+
+### 📺 Distribuição de Conteúdo
+- **70% filmes** vs. **30% séries**, com dominância de produções norte-americanas (65%).
 
 2. **Origem Geográfica**:
    - Top 3 países produtores: Estados Unidos	65%, Reino Unido	12%, Japão	8%
