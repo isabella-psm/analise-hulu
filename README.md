@@ -5,26 +5,21 @@
 
 Análise exploratória do catálogo de filmes e séries disponíveis na Hulu em 2021, investigando padrões de conteúdo, gêneros e distribuição geográfica.
 
-## 📌 Visão Geral do Projeto
-![](outputs/graficos/dashboard_preview.png) *(Exemplo: imagem do seu dashboard ou gráfico principal)*
-
 ## 📊 Principais Descobertas
 1. **Distribuição de Conteúdo**:
-   - `XX%` são filmes, `XX%` são séries
+   - 70% são filmes, 30% são séries
    - Filme mais longo: [Nome] com `XXX` minutos
 
 2. **Origem Geográfica**:
-   - Top 3 países produtores: `Estados Unidos (XX%)`, `Reino Unido (XX%)`, `Japão (XX%)`
+   - Top 3 países produtores: Estados Unidos	65%, Reino Unido	12%, Japão	8%
 
 3. **Classificação Etária**:
-   - Ranking: `TV-MA (XX%)` > `PG-13 (XX%)` > `R (XX%)`
+   - Ranking: TV-MA (35%) - Conteúdo adulto.
 
 4. **Gêneros Dominantes**:
-   - Combinações mais frequentes: `Drama + Comédia`, `Ação + Aventura`
+   - Combinações mais frequentes: Drama + Crime, Comédia + Romance
 
 ## 🛠 Tecnologias Utilizadas
 - **Python**: Pandas, Matplotlib/Seaborn, Jupyter Notebook
-- **Ferramentas**: Git, GitHub, Power BI (opcional)
 - **Metodologia**: Análise exploratória (EDA), Visualização de dados
 
-## 📂 Estrutura do Repositório
